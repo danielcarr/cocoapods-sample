@@ -1,0 +1,41 @@
+PODS:
+  - Bolts/Tasks (1.7.0)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - DACircularProgress (2.2.0)
+  - Fabric (1.6.7)
+  - FXBlurView (1.6.4)
+  - MarqueeLabel (2.7.4):
+    - MarqueeLabel/ObjC (= 2.7.4)
+  - MarqueeLabel/ObjC (2.7.4)
+  - MBProgressHUD (0.9.2)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - REFrostedViewController (2.4.8)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core (= 3.7.1)
+  - SDWebImage/Core (3.7.1)
+
+DEPENDENCIES:
+  - Crashlytics
+  - DACircularProgress (= 2.2.0)
+  - FXBlurView
+  - MarqueeLabel
+  - MBProgressHUD
+  - Parse
+  - REFrostedViewController (~> 2.4.7)
+  - SDWebImage (= 3.7.1)
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  DACircularProgress: 0f92b77239d5f3c612fc66185e2998391ac8e054
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  MarqueeLabel: c06f6081f9e1da2d1e756ceb9c5fab5bd9c2f57c
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  SDWebImage: ed3095af2ff88b436426037444979b917f6c5575
+
+COCOAPODS: 0.39.0
